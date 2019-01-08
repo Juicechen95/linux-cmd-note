@@ -6,4 +6,6 @@ my learning notes on linux commands
 
 [删除文件每一行的前k个字符、在文本的行尾或行首添加字符](https://www.cnblogs.com/bymo/p/8085821.html)
 
+[从行尾删除]（https://askubuntu.com/questions/675489/how-to-use-sed-to-replace-from-last-3-characters-from-string）
+
 
